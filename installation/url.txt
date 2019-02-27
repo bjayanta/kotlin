@@ -1,0 +1,5 @@
+01. Download and Install JDK from 
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+02. Download and Install IntelliJ IDEA(Community)
+https://www.jetbrains.com/idea/download/#section=windows
