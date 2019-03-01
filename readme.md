@@ -30,26 +30,31 @@ Class 3:
 
 Class 4:
 ------------------------------------------------------------
-09. conditional statement and logical operators 
-10. loop controll statement 
-11. project
+09. logical operators 
+10. conditional statement
+	- when statement
+11. loop controll statement 
+	- for 
+	- while
+	- do while
+12. project
 
 Class 5:
 -------------------------------------------------------------
-12. Function, Function parameters, Function return type
-13. Variable scope
+13. Function, Function parameters, Function return type
+14. Variable scope
 
 Class 6: 
 --------------------------------------------------------------
-14. Basic OOP
-15. Setters and Getters
-16. Inheritance
-17. Method overloading
-18. Access modifiers
+15. Basic OOP
+16. Setters and Getters
+17. Inheritance
+18. Method overloading
+19. Access modifiers
 
 Class 7:
 -----------------------------------------------------------
-19. Interface
-20. Abstract class
-21. Generic class
-22. Enums
+20. Interface
+21. Abstract class
+22. Generic class
+23. Enums
