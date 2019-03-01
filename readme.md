@@ -20,6 +20,12 @@ Class 2:
 Class 3:
 ------------------------------------------------------
 07. Operators
+	- addition
+	- Subtraction
+	- multiplication
+	- division
+	- remainder
+	- increment and decrement
 08. Type cast
 
 Class 4:
