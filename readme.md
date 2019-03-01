@@ -1,4 +1,4 @@
-class 1:
+Class 1:
 ---------------------------------
 01. Download and Install Kotlin
 
@@ -7,6 +7,13 @@ Class 2:
 02. Write a "Hello World" program
 03. how to use comments
 04. variable & types
+	- variable definition
+	- string 
+	- integer 
+	- double
+	- boolean 
+	- float
+	- char
 05. Diffeerence between Var and Val
 06. Read input from console
 
