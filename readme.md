@@ -41,7 +41,9 @@ Class 4:
 
 Class 5:
 -------------------------------------------------------------
-13. Function, Function parameters, Function return type
+13. Function
+	- with parameters
+	- return type
 14. Variable scope
 
 Class 6: 
