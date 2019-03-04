@@ -49,7 +49,7 @@ Class 5:
 Class 6: 
 --------------------------------------------------------------
 15. Basic OOP
-16. Setters and Getters
+16. Setters and Getters (optional)
 17. Inheritance
 18. Method overloading
 19. Access modifiers
