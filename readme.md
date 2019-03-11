@@ -60,3 +60,10 @@ Class 7:
 21. Abstract class
 22. Generic class
 23. Enums
+
+Class 8:
+-------------------------------------------------------------
+24. Array
+25. ArrayList
+26. Hashmaps
+27. Kotlin collections
